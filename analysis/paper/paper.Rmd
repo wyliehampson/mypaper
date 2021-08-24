@@ -1,7 +1,7 @@
 ---
 title: "My Important Article"
 author:
-  - Wylie Hampson Mylastname: 
+  - Wylie Hampson: 
       email: fl@oneplace.edu
       institute: [UofO]
       correspondence: true
