@@ -1,7 +1,7 @@
 ---
-title: "Title Goes Here"
+title: "My Important Article"
 author:
-  - Myfirstname Mylastname:
+  - Wylie Hampson Mylastname: 
       email: fl@oneplace.edu
       institute: [UofO]
       correspondence: true
@@ -10,7 +10,7 @@ author:
       institute: [UofA]
       correspondence: false
 institute:
-  - UofO: University of One Place
+  - UofO: University of California Santa Barbara
   - UofA: University of Another Place
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
@@ -56,6 +56,8 @@ knitr::opts_chunk$set(
 <!-- The actual document text starts here: -->
 
 # Introduction
+
+This is my introduction for my important paper.
 
 Here is a citation [@Marwick2017]
 
